@@ -27,7 +27,7 @@ These instructions install the recommended starting development environment for 
     <td>
         Visual Studio versions 2017 and later have built-in support for Azure development. The below steps describe enabling Azure development support in Visual Studio.<br />
         <br />
-        For Visual Studio 2015 and earlier, [follow these instructions](dotnet-sdk-vs2015-install.md).
+        For Visual Studio 2015 and earlier, <a href="dotnet-sdk-vs2015-install.md">follow these instructions</a>.
     </td>
   </tr>
 </table>
@@ -39,7 +39,7 @@ You can skip this step if you already have Visual Studio 2019 installed.
 > [!div class="nextstepaction"]
 > [Download Visual Studio 2019](https://www.visualstudio.com/downloads/)
 
-### Step 2: Install the two Azure workloads
+### Step 2: Install the Azure and ASP.NET workloads
 
 In the Visual Studio installer, install Visual Studio (or modify an existing installation). Make sure the *Azure development* and *ASP.NET and web development* workloads are selected.
 
